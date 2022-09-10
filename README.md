@@ -6,9 +6,9 @@ To build a KNN , Naive Bayes and Logistic regression model using Scikit-learn to
 
 The repository is a learning exercise to:
 
-1. Apply the fundamental concepts of machine learning from an available dataset.
+* Apply the fundamental concepts of machine learning from an available dataset.
 
-2. Evaluate and interpret my results and justify my interpretation based on observed data set
+* Evaluate and interpret my results and justify my interpretation based on observed data set
 
 ## Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
